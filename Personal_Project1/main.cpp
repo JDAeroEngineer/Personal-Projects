@@ -32,6 +32,7 @@ int main(int argc, char** argv) {
     
     //Display the Inputs/Outputs
     cout<<"Hello World";
+    cout<<"Hello World";
          
     //Clean up the code, close files, deallocate memory, etc....
     
